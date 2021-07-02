@@ -4,11 +4,10 @@
 
 - 🌈 Fun fact: I love coffee!
 
-
  <div>
   <a href="https://github.com/emillyedu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emillyedu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyedu&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="428em" src="https://github-readme-stats.vercel.app/api?username=emillyedu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="428em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyedu&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="emilly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +17,6 @@
   <img align="center" alt="emilly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="emilly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="emilly-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
