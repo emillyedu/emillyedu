@@ -1,7 +1,9 @@
 ## Hello, world! I'm Êmilly Eduarda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
+Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
 
 Member of   <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
+
 
 - 💻 I'm currently learning web development.
 
