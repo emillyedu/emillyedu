@@ -3,7 +3,7 @@
 ### Experience
 
 - [TCE-PB](https://tce.pb.gov.br/) : Front-End Engineering intern (Oct 2021 - Present).
-    - HTML, CSS, JavaScript and Angular
+    - HTML, CSS, JavaScript and Angular.
 
 ### Extra curricular experience
 
