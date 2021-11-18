@@ -1,10 +1,18 @@
-## Hello, world! I'm Êmilly Eduarda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# Hello, world! I'm Êmilly Eduarda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
+### Experience
 
-Member of   <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
+- [TCE-PB](https://tce.pb.gov.br/) : Front-End Engineering intern (Oct 2021 - Present).
+    - HTML, CSS, JavaScript and Angular
 
+### Extra curricular experience
 
+- Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
+
+- Member of   <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
+
+##
+ 
 - 💻 I'm currently learning web development.
 
 - 🌈 Fun fact: I love coffee!
@@ -19,7 +27,10 @@ Member of   <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artifi
   <img align="center" alt="emilly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="emilly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="emilly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="emilly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="emilly-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="emilly-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="emilly-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="emilly-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 </div>
   
   ##
