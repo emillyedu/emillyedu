@@ -2,7 +2,10 @@
 
 ### Experience
 
-- [TCE-PB](https://tce.pb.gov.br/) : Front-End Engineering intern (Oct 2021 - Present).
+- [Moises](https://moises.ai/) : Machine Learning Intern (Feb 2022 - Present).
+    - Natural Language Processing (NLP).
+
+- [TCE-PB](https://tce.pb.gov.br/) : Front-End Engineering intern (Oct 2021 - Feb 2022).
     - HTML, CSS, JavaScript and Angular.
 
 ### Extra curricular experience
