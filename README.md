@@ -10,9 +10,9 @@
 
 ### Extra curricular experience
 
-- Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
+- Member [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
 
-- Member of   <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
+- Member <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
 
 ##
  
