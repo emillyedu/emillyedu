@@ -16,7 +16,7 @@
 
 ##
  
-- 💻 I'm currently learning machine learning and web development.
+- 💻 I'm currently learning NLP and web development.
 
 - 🌈 Fun fact: I love coffee!
 
