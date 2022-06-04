@@ -4,6 +4,7 @@
 
 - [Moises](https://moises.ai/) : Machine Learning Intern (Feb 2022 - Present).
     - Natural Language Processing (NLP).
+    - Data Science.
 
 - [TCE-PB](https://tce.pb.gov.br/) : Front-End Engineering intern (Sep 2021 - Feb 2022).
     - HTML, CSS, JavaScript and Angular.
@@ -15,8 +16,6 @@
 - Member <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
 
 ##
- 
-- 💻 I'm currently learning machine learning and web development.
     
 
  <div>
