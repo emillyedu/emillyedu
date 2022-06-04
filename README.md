@@ -17,8 +17,7 @@
 ##
  
 - 💻 I'm currently learning machine learning and web development.
-
-- 🌈 Fun fact: I love coffee!
+    
 
  <div>
   <a href="https://github.com/emillyedu">
