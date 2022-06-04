@@ -1,4 +1,4 @@
-# Hello, world! I'm Êmilly Eduarda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# Hello, world! I'm Êmilly Eduarda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px !important">
 
 ### Experience
 
