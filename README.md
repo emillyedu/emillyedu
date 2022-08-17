@@ -2,12 +2,17 @@
 
 ### Experience
 
-- [Moises](https://moises.ai/) : Machine Learning Intern (Feb 2022 - Present).
-    - Natural Language Processing (NLP).
-    - Data Science.
+- [Moises](https://moises.ai/) : 
+    - Data Analysis Intern (Aug 2022 - Present)
+        - SQL
+        - Tableau
+    - Machine Learning Intern (Feb 2022 - Jul 2022)
+        - Natural Language Processing (NLP)
+        - Data Science
 
-- [TCE-PB](https://tce.pb.gov.br/) : Front-End Engineering intern (Sep 2021 - Feb 2022).
-    - Angular, JavaScript, HTML and CSS.
+- [TCE-PB](https://tce.pb.gov.br/) :
+    - Front-End Engineering intern (Sep 2021 - Feb 2022)
+        - Angular, JavaScript, HTML and CSS
 
 ### Extra curricular experience
 
