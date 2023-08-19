@@ -3,7 +3,7 @@
 ### Experience
 
 - [Moises](https://moises.ai/) : 
-    - Data Analysis Intern (Aug 2022 - Present)
+    - Data Analysis Intern (Aug 2022 - Aug 2023)
         - SQL
         - Tableau
     - Machine Learning Intern (Feb 2022 - Jul 2022)
