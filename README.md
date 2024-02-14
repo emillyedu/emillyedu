@@ -2,6 +2,10 @@
 
 ### Experience
 
+- [SPC Brasil](https://www.spcbrasil.org.br/) : 
+    - Machine Learning Intern (nov 2023 - present)
+      
+
 - [Moises](https://moises.ai/) : 
     - Data Analysis Intern (Aug 2022 - Aug 2023)
 
@@ -16,7 +20,7 @@
 
 - Member [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
 
-- Member <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
+- Lead <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
 
 ##
     
