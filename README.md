@@ -3,13 +3,13 @@
 ### Experience
 
 - [SPC Brasil](https://www.spcbrasil.org.br/) : 
-    - Machine Learning Intern (nov 2023 - present)
+    - machine learning engineer Intern (nov 2023 - present)
       
 
 - [Moises](https://moises.ai/) : 
-    - Data Analysis Intern (Aug 2022 - Aug 2023)
+    - Data Analysis and engineer Intern (Aug 2022 - Aug 2023)
 
-    - Machine Learning Intern (Feb 2022 - Jul 2022)
+    - machine learning engineer Intern (Feb 2022 - Jul 2022)
 
 
 - [TCE-PB](https://tce.pb.gov.br/) :
