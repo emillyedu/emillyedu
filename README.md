@@ -2,8 +2,9 @@
 
 ### Experience
 
-- [SPC Brasil](https://www.spcbrasil.org.br/) : 
-    - machine learning engineer Intern (nov 2023 - present)
+- [SPC Brasil](https://www.spcbrasil.org.br/) :
+    - machine learning engineer jr (sep 2025 - present)
+    - machine learning engineer Intern (nov 2023 - aug 2025)
       
 
 - [Moises](https://moises.ai/) : 
